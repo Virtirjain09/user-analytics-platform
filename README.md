@@ -1,7 +1,7 @@
 # User Behavior Analytics & Churn Prediction Platform 
 
 <p align="center">
-  <img src="https://your-link-to-screenshot.com/dashboard.png" alt="Dashboard Screenshot" width="800"/>
+  <img src="https://drive.google.com/file/d/18VoYf5FWtpsZREJJ3VlGVqeuXN3tS6qd/view?usp=sharing" alt="Dashboard Screenshot" width="800"/>
 </p>
 
 ##  Overview
