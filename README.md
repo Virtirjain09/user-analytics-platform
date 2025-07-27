@@ -79,7 +79,3 @@ The project must be run in the following order to generate the necessary data an
 * **Real-time Data Pipeline:** Connect the platform to a live database (e.g., PostgreSQL, BigQuery) to analyze events in real-time.
 * **Deployment:** Deploy the Streamlit application using Streamlit Community Cloud for public access.
 * **Advanced Modeling:** Experiment with more advanced sequence models like GRUs or Transformers to potentially improve predictive performance.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
